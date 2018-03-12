@@ -1,7 +1,7 @@
 <?php
 namespace Home\Controller;
 
-require "./public/vendor/autoload.php";
+require "./public/ots/vendor/autoload.php";
 
 use Think\Controller;
 use Aliyun\OTS\OTSClient as OTSClient;
